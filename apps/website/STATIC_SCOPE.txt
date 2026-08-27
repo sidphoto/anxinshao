@@ -1,0 +1,1 @@
+Static website deployment source is intentionally kept free of live Web Check, API, AI, uploads, tracking and authentication. Dynamic verification remains a separate product surface.
